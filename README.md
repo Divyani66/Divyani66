@@ -34,11 +34,6 @@ Krutanic Solutions(Accenture)
 
 🔗 [View SHIELD on GitHub](https://github.com/Divyani66/SHIELD_App)
 
-### NewsApp
-- Android news application developed using Kotlin.
-
-🔗 [View NewsApp on GitHub](https://github.com/Divyani66/NewsApp)
-
 ## 📜 Certifications
 
 - Introduction to SQL — Simplilearn (July 2025)
