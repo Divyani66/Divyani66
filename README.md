@@ -53,7 +53,7 @@ P. R. Pote (Patil) College of Engineering and Management
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://linkedin.com/in/divyaniyadav)
+- [LinkedIn](https://www.linkedin.com/in/divyani-yadav-036a8b290)
 - [GitHub](https://github.com/Divyani66)
 
 ---
